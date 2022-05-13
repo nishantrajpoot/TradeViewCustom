@@ -1,0 +1,2 @@
+profit,long_stoploss,long_takeprofit,short_stoploss,short_takeprofit,buy_factor,sell_factor,adx_smoothing,di_length
+11.0,1.5,1.1,3.2,2.0,9.1208,2.1569,29.0,30.0
